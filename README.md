@@ -1,2 +1,2 @@
-# Mehran Rastegar Sani PersonalWebsite-CV
+# Mehran Rastegar Sani Personal Website-CV
 https://mehranrastegarsani.github.io
