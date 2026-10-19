@@ -6,7 +6,7 @@ body {
 }
 .PersonalSite h1 {
   color: #0a2647;
-  font-size: 5.625rem;
+  font-size: 1.625rem;
   margin: 50px auto 0 auto;
   font-family: "Sacramento", cursive;
 }
@@ -32,7 +32,7 @@ body {
   font-size: 1.2rem;
   display: block;
   max-width: 520px;
-  line-height: 1.5;
+  line-height: 1.85;
   margin: 0 auto;
   text-align: center;
   left: 0;
