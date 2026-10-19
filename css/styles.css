@@ -29,9 +29,13 @@ body {
   position: relative;
   color: #40514e;
   font-weight: bold;
-  font-size: 1.6rem;
+  font-size: 1.2rem;
   display: block;
-  left: 30px;
+  max-width: 520px;
+  line-height: 1.5;
+  margin: 0 auto;
+  text-align: center;
+  left: 0;
   top: 5px;
 }
 .PersonalSite p {
