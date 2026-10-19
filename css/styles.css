@@ -63,12 +63,12 @@ body {
   background-color: #faf8f1;
   position: relative;
   padding-top: 100px;
-  padding-bottom: 50px;
+  padding-bottom: 10px;
 }
 .middle-container {
   background-color: #faf8f1;
-  padding-top: 50px;
-  height: 3200px;
+  padding-top: 10px;
+  height: 3500px;
 }
 .bottom-container {
   background-color: #f3efe0;
